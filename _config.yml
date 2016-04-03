@@ -1,6 +1,6 @@
 name: deggen
 favicon: null
-layout_spectrum: 0.15881
+layout_spectrum: 1
 typography_spectrum: 0.52071
 title: 'Darren Eggenschwiler B.Eng. Video Producer | Tech Wizard | Cinematographer'
 cta:
@@ -18,12 +18,12 @@ opengraph:
 color:
   brandColors:
     - '#000000'
-    - '#1e1e1e'
-    - '#989898'
-    - '#bbbbbb'
-    - '#dcdcdc'
+    - '#ffffff'
+    - '#7d7d7d'
+    - '#ff942c'
+    - '#db1215'
   brandStrength: 0.25
-  lightness: 0.625
+  lightness: 0.25
   saturation: 0.125
-  rhythmicContrast: 0.9258339258376509
+  rhythmicContrast: 1
 purpose: []
