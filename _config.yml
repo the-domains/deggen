@@ -1,0 +1,28 @@
+name: deggen
+favicon: null
+layout_spectrum: 0.5048545149620622
+typography_spectrum: 0.6275306502357125
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.28302680840715766
+  lightness: 0.02359878388233483
+  saturation: 0.4071640477050096
+  rhythmicContrast: 0.9258339258376509
+purpose: []
