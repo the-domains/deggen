@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'I have been operating cameras professionally since 2006. My extensive range of experience has given me a robust foundation of knowledge. This helps me adapt to new equipment quickly so that I can provide the highest grade footage possible every time. If you need a specific camera for a job - I can get a hold of it through my strong business connections in the area. On the other hand if you’re not sure what options are available, I can give you advice on which equipment to consider. Be it be a Blackmagic Pocket Cam, or a Red Epic - I’ve shot with them all, and can help you get the most out of your budget.'
-datePublished: '2016-04-03T12:45:26.985Z'
-dateModified: '2016-04-03T12:33:03.150Z'
+datePublished: '2016-04-03T13:22:05.410Z'
+dateModified: '2016-04-03T13:22:05.049Z'
 title: Video Producer
 author: []
 sourcePath: _posts/2016-04-03-video-producer.md
