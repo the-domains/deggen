@@ -4,8 +4,22 @@
         <description><![CDATA[Darren Eggenschwiler B.Eng. Video Producer | Tech Wizard | Cinematographer]]></description>
         <link>https://thegrid.ai/deggen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 13:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2016 13:22:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/deggen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I have a decade of experience lighting and shooting films, using intuition and innovation to overcome budgetary restrictions. I am not an industry seasoned, award winning director of photography, nor do I have any cinematography qualifications to speak of. What I can offer your production is a great deal of experience using low budget equipment to create images which reveal story.</p>]]></description>
+            <link>https://thegrid.ai/deggen/253c8fb7-b379-431d-846a-bf83d203da68/index.html</link>
+            <guid isPermaLink="false">253c8fb7-b379-431d-846a-bf83d203da68</guid>
+            <pubDate>Sun, 03 Apr 2016 13:21:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blackmagic Cinema Cameras Have Just Been Upgraded]]></title>
+            <description><![CDATA[<article><h1>Blackmagic Cinema Cameras Have Just Been Upgraded</h1><p>Blackmagic Design have really nailed this one out of the park. The latest firmware (v1.8) for the BMC upgrades it in to an all new level. The most important change for me has been the super improved anti-aliasing moire reduction function of the prores debayer. (huh?)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a81479d20f8ad0f2fb7f846098fa9131a54573bf.jpg"></article>]]></description>
+            <link>http://www.productionattic.com/blog/blackmagic-cinema-cameras-have-just-been-upgraded</link>
+            <guid isPermaLink="false">f4b7e508-6cd9-42bf-b9cc-5f68e09ab7ca</guid>
+            <pubDate>Sun, 03 Apr 2016 13:14:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blackmagic Cinema Camera First Impressions]]></title>
             <description><![CDATA[<article><h1>Blackmagic Cinema Camera First Impressions</h1><p>Wow. This camera is an absolute joy to use. It's essentially a lens, sensor and solid state drive. No frills, nothing fancy, just a solid 1.6kg block of metal which records exactly what's in front of it. Perfect. After filming for a few hours on the afternoon we received it, I discovered that it is also totally unforgiving.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/471934c8a29a5cb858ddb7b1db5305546935655e.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.productionattic.com/blog/make-your-own-dcp</link>
             <guid isPermaLink="false">42bb00db-e08a-4534-8526-f7bc797dfe67</guid>
             <pubDate>Sun, 03 Apr 2016 13:14:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dual System Audio Syncing with Chirp]]></title>
-            <description><![CDATA[<article><h1>Dual System Audio Syncing with Chirp</h1><p>I had a wonderful thought yesterday whilst listening to a podcast with Joe Rogan and Andreas Antonopoulos. They were speaking about Chirp. Chirp is a service which can encode any piece of data into a 20 tone audio clip which can be decoded by any Chirp client to link to the original data.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1632d3c5f3524684c3d309273315885bc29a02e.jpg"></article>]]></description>
-            <link>http://www.productionattic.com/blog/dual-system-audio-syncing-with-chirp</link>
-            <guid isPermaLink="false">871e5671-5b1a-4ebd-913c-c98b0ec0158a</guid>
-            <pubDate>Sun, 03 Apr 2016 13:13:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>http://www.productionattic.com/blog/build-your-own-chinaball-for-cinematic-lighting-vlog</p>]]></description>
-            <link>https://thegrid.ai/deggen/b9cb651f-32a2-4d21-9f77-47f6c0c1ca17/index.html</link>
-            <guid isPermaLink="false">b9cb651f-32a2-4d21-9f77-47f6c0c1ca17</guid>
-            <pubDate>Sun, 03 Apr 2016 13:07:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
