@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'https://youtu.be/O4cWvcE3GG0'
-datePublished: '2016-04-03T13:05:04.078Z'
-dateModified: '2016-04-03T13:04:51.646Z'
+datePublished: '2016-04-03T13:34:49.352Z'
+dateModified: '2016-04-03T13:05:15.449Z'
 title: Lighting at Night
 author: []
+sourcePath: _posts/2016-04-03-lighting-at-night.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-03-lighting-at-night.md
-published: true
 url: lighting-at-night/index.html
 _type: Blurb
 
