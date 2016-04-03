@@ -4,8 +4,22 @@
         <description><![CDATA[Darren Eggenschwiler B.Eng. Video Producer | Tech Wizard | Cinematographer]]></description>
         <link>https://thegrid.ai/deggen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 13:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2016 13:14:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/deggen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lighting CRI and CT]]></title>
+            <description><![CDATA[<article><h1>Lighting CRI and CT</h1><p>So the main problem is that the big movie cats often use giant lighting fixtures with 18,000 Watts of power driving them, blasted through giant diffusion silks. Us film kittens can't do that because it would cost more monies than are currently available to us.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e1c5317427905b96e4ba7a0d04aff68b22c34d1.jpg"></article>]]></description>
+            <link>http://www.productionattic.com/blog/lighting-cri-and-ct</link>
+            <guid isPermaLink="false">a3d1a271-4a17-41e6-9f9b-8cfb4a89ca6f</guid>
+            <pubDate>Sun, 03 Apr 2016 13:14:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Make Your Own DCP]]></title>
+            <description><![CDATA[<article><h1>Make Your Own DCP</h1><p>The other day I succeeded in constructing my first ever DCP. It was a moment of great joy - the realisation of a dream - and I owe it all to free software from both commercial and open source software developers. If you don't know what a DCP is, then don't worry, neither did I a few weeks ago.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/313a37e2f394402717d7ddd14190c48384c751cc.jpg"></article>]]></description>
+            <link>http://www.productionattic.com/blog/make-your-own-dcp</link>
+            <guid isPermaLink="false">42bb00db-e08a-4534-8526-f7bc797dfe67</guid>
+            <pubDate>Sun, 03 Apr 2016 13:14:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dual System Audio Syncing with Chirp]]></title>
             <description><![CDATA[<article><h1>Dual System Audio Syncing with Chirp</h1><p>I had a wonderful thought yesterday whilst listening to a podcast with Joe Rogan and Andreas Antonopoulos. They were speaking about Chirp. Chirp is a service which can encode any piece of data into a 20 tone audio clip which can be decoded by any Chirp client to link to the original data.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1632d3c5f3524684c3d309273315885bc29a02e.jpg"></article>]]></description>
