@@ -17,8 +17,8 @@ keywords:
   - portable
   - glasgow
 description: "Production Attic Vlogs presents \"Build Your Own Chinaball For Cinematic Lighting\" in which Darren talks you through the steps to create a DIY Chinaball on a budget as a portable soft lighting solution. Recommended Reading If you liked this Vlog, check out Darren's original Blog ... Continue reading →"
-datePublished: '2016-04-03T13:59:49.297Z'
-dateModified: '2016-04-03T13:59:37.848Z'
+datePublished: '2016-04-03T14:02:50.846Z'
+dateModified: '2016-04-03T13:59:52.093Z'
 author: []
 related: []
 app_links: []
