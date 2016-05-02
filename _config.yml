@@ -1,29 +1,41 @@
-name: deggen
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.31965
-title: Darren Eggenschwiler
+title: 'Darren Eggenschwiler B.Eng. Video Producer | Tech Wizard | Cinematographer'
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5698174
+  brandStrength: 0.6836735
+  lightness: 0.5655209
+  brandColors:
+    - '#262626'
+    - '#FFFFFF'
+    - '#95001B'
+    - '#7E7E7E'
+    - '#BCBCBC'
+  rhythmicContrast: 1
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: deggen
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#ffffff'
-    - '#7d7d7d'
-    - '#ff942c'
-    - '#db1215'
-  brandStrength: 0.25
-  lightness: 0.25
-  saturation: 0.125
-  rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.31965
+layout_spectrum: 0
