@@ -1,11 +1,8 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.productionattic.com'
-  name: Productionattic
-  favicon: 'http://www.productionattic.com/_images/favicon.png'
-  domain: www.productionattic.com
+inFeed: false
+hasPage: true
+inNav: false
+inLanguage: en
 keywords:
   - desqueeze
   - lenses
@@ -18,17 +15,22 @@ keywords:
   - using
   - '2048'
 description: 'A week or so ago we ordered a Letus AnamorphX 1.33x anamorphic adapter. It arrived with five hours to spare before the Glasgow 48 hour film project. Phew! That was a nail biter. First off I wanted to show the squeeze factor, by filming a circular plate, and overlaying a perfect circle.'
-inLanguage: en
+datePublished: '2016-05-02T22:13:10.786Z'
+dateModified: '2016-05-02T22:13:07.016Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.productionattic.com/blog/letus-anamorphx-on-the-blackmagic-cinema-camera'
 title: Letus AnamorphX on the Blackmagic Cinema Camera
-datePublished: '2016-04-03T13:14:19.106Z'
-dateModified: '2016-04-03T13:12:55.967Z'
 sourcePath: _posts/2016-04-03-letus-anamorphx-on-the-blackmagic-cinema-camera.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Productionattic
+  domain: www.productionattic.com
+  url: 'http://www.productionattic.com'
+  favicon: 'http://www.productionattic.com/_images/favicon.png'
+starred: false
+url: letus-anamorphx-on-the-blackmagic-cinema-camera/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
