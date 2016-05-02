@@ -1,10 +1,8 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://www.productionattic.com/blog/build-your-own-chinaball-for-cinematic-lighting-vlog'
 inLanguage: en
-starred: false
 keywords:
   - chinaball
   - vlog
@@ -17,8 +15,8 @@ keywords:
   - portable
   - glasgow
 description: "Production Attic Vlogs presents \"Build Your Own Chinaball For Cinematic Lighting\" in which Darren talks you through the steps to create a DIY Chinaball on a budget as a portable soft lighting solution. Recommended Reading If you liked this Vlog, check out Darren's original Blog ... Continue reading →"
-datePublished: '2016-04-03T14:02:50.846Z'
-dateModified: '2016-04-03T13:59:52.093Z'
+datePublished: '2016-05-02T22:33:42.538Z'
+dateModified: '2016-05-02T22:33:41.871Z'
 author: []
 related: []
 app_links: []
@@ -31,6 +29,8 @@ publisher:
   domain: www.productionattic.com
   url: 'http://www.productionattic.com'
   favicon: 'http://www.productionattic.com/_images/favicon.png'
+starred: false
+url: build-your-own-chinaball-for-cinematic-lighting/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
