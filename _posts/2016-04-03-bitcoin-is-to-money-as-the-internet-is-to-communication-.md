@@ -16,8 +16,8 @@ keywords:
   - think
   - ponzi
 description: 'BITCOIN is a technology which has recently been crossing new boundaries in the world of finance. After conducting a quick poll on the city streets it appears that half of the population have never even heard of it. Bitcoin is to money, as the internet is to communication.'
-datePublished: '2016-05-02T22:08:18.345Z'
-dateModified: '2016-05-02T22:08:05.171Z'
+datePublished: '2016-05-02T22:10:29.036Z'
+dateModified: '2016-05-02T22:08:25.770Z'
 author:
   - name: Darren Eggenschwiler
     url: null
