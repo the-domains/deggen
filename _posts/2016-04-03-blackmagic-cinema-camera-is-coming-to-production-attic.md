@@ -1,11 +1,8 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.productionattic.com'
-  name: Productionattic
-  favicon: 'http://www.productionattic.com/_images/favicon.png'
-  domain: www.productionattic.com
+inFeed: false
+hasPage: true
+inNav: false
+inLanguage: en
 keywords:
   - blackmagic
   - cinema
@@ -18,17 +15,22 @@ keywords:
   - 9jt
   - digital
 description: 'Tomorrow is the day I have waited eight months for. On Monday we are expecting the delivery of our very own Blackmagic Cinema Camera. I have a new understanding of the expression "early adopter". Committing to a purchase two months ... Continue reading →'
-inLanguage: en
+datePublished: '2016-05-02T22:12:19.637Z'
+dateModified: '2016-05-02T22:12:13.246Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.productionattic.com/blog/blackmagic-cinema-camera-is-coming-to-production-attic'
 title: Blackmagic Cinema Camera Is Coming To Production Attic
-datePublished: '2016-04-03T13:14:19.027Z'
-dateModified: '2016-04-03T13:13:05.842Z'
 sourcePath: _posts/2016-04-03-blackmagic-cinema-camera-is-coming-to-production-attic.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Productionattic
+  domain: www.productionattic.com
+  url: 'http://www.productionattic.com'
+  favicon: 'http://www.productionattic.com/_images/favicon.png'
+starred: false
+url: blackmagic-cinema-camera-is-coming-to-production-attic/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
