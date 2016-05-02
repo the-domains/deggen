@@ -4,7 +4,6 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.illicit.co/bitcoin-is-to-money-as-the-internet-is-to-newspapers/'
 inLanguage: en
-starred: false
 keywords:
   - bitcoin
   - adoption
@@ -17,8 +16,8 @@ keywords:
   - think
   - ponzi
 description: 'BITCOIN is a technology which has recently been crossing new boundaries in the world of finance. After conducting a quick poll on the city streets it appears that half of the population have never even heard of it. Bitcoin is to money, as the internet is to communication.'
-datePublished: '2016-04-03T13:34:25.658Z'
-dateModified: '2016-04-03T13:34:25.265Z'
+datePublished: '2016-05-02T22:08:18.345Z'
+dateModified: '2016-05-02T22:08:05.171Z'
 author:
   - name: Darren Eggenschwiler
     url: null
@@ -34,6 +33,7 @@ publisher:
   domain: www.illicit.co
   url: 'http://www.illicit.co'
   favicon: 'http://www.illicit.co/wp-content/uploads/2016/01/favicon.png'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
